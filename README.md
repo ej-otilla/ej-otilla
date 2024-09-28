@@ -1,13 +1,13 @@
 # Hello, world! 👋
 
 ### My name is Evan James Otilla, but you can call me Evan or EJ.
-I am a first-year student in the Interactive Design program, majoring in Web Design and Development at SAIT.
+I am a first-year student in the Interactive Design program, majoring in Web Design and Development at SAIT. I'm passionate about creating digital experiences that connect with users by combining aesthetics and functionality.
 
 ## Skills
 
-- Graphic Design (Adobe Photoshop, Illustrator)
-- Video Editing (Adobe Premiere Pro)
-- Version Control (Git, GitHub)
+- **Graphic Design**: Proficient in Adobe Photoshop and Illustrator, with experience in creating visual identities and branding materials.
+- **Video Editing**: Skilled in Adobe Premiere Pro for crafting engaging video content.
+- **Version Control**: Experienced in using Git and GitHub for collaborative projects and version control.
 
 ## Favourite Music Artists
 
