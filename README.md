@@ -46,5 +46,6 @@ I enjoy creating and editing short-form content such as reels, short films, and 
 
 Feel free to reach out to me if you are interested in collaboration, giving feedback, or just want to connect! I am always open to new opportunities and discussions.
 
-- **Email**: eja.otilla@gmail.com
+- **Work Email**: eja.otilla@gmail.com
+- **School Email**: evanjames.otilla@edu.sait.ca
 - **LinkedIn**: https://www.linkedin.com/in/ej-otilla/
