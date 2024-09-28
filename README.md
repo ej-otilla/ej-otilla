@@ -34,8 +34,6 @@ I enjoy creating visually appealing content that effectively conveys ideas. Adob
 
 *This is a poster I designed for the one-act play I stage managed from April to May of 2024.*
 
-## Photography
-
 ## Contact Information
 
 Feel free to reach out to me if you are interested in collaboration, giving feedback, or just want to connect! I am always open to new opportunities and discussions.
