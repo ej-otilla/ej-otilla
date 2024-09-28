@@ -9,20 +9,11 @@ I am a first-year student in the Interactive Design program, majoring in Web Des
 - **Video Editing**: Skilled in Adobe Premiere Pro for crafting engaging video content.
 - **Version Control**: Experienced in using Git and GitHub for collaborative projects and version control.
 
-## Favourite Music Artists
+## Creative Outlets
 
-Music has played a significant role in shaping who I am as a person today. I love listening to and producing music, as well as dabbling in and learning new instruments when I have the opportunity!
+Music has played a significant role in shaping who I am as a person today. I love discovering new artists and experimenting with different instruments. Listening to music not only inspires my creativity but also influences my design work.
 
-1. [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3?si=Of9XohBfQQeOct9wlZ59uQ)
-2. [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu?si=saf-PtPrTVulCy2fnJ0Zww)
-3. [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn?si=FB-ZsHQfRnqsIfWftTgW6w)
-4. [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI?si=6-wnDt2QTXKI_hQCznfC5Q)
-5. [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe?si=cZ0lIJeNRnaSe5Uw29gqlQ)
-6. [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v?si=GFe4kxUgT_eCmyEQ0_dzow)
-7. [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea?si=JRieqSOsQ9uiEe4JcRwFRg)
-8. [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv?si=nRf7i9VJTs-1SEZUpMQ9-A)
-9. [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI?si=WvsIK002SjKeWNtCUZGGiw)
-10. [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1?si=DFsqKtutQJ6S-c5ANLCIgw)
+Check out my [favorite playlist](https://open.spotify.com/playlist/2e6JDRecVbYUk4PKmZX2XV) to hear some of the artists that inspire me!
 
 ### Fun Fact!
 
