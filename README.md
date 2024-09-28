@@ -14,7 +14,7 @@ I am a first-year student in the Interactive Design program, majoring in Web Des
 ## Creative Outlets 🧩
 
 ### Music 🎧
-Music has played a significant role in shaping who I am as a person today. I love discovering new artists and experimenting with different instruments. Listening to music not only inspires my creativity but also influences my design work.
+Music has played a significant role in shaping who I am as a person today. I love discovering new artists, singing, and experimenting with different instruments including the drums, electric and acoustic guitars, and piano. Listening to music not only inspires my creativity but also influences my design work.
 
 Check out my [favorite playlist](https://open.spotify.com/playlist/2e6JDRecVbYUk4PKmZX2XV) to hear some of the artists that inspire me!
 
