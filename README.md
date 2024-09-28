@@ -28,11 +28,19 @@ This quote essentially reflects my values and inspires me to use design to expre
 
 ### Graphic Design
 
-I enjoy creating visually appealing content that effectively conveys ideas. Adobe Photoshop and Illustrator are my go-to tools for making my ideas come to life. I was heavily involved in my high school's multimedia and theatre programs, where I developed numerous projections and posters, as well as photo manipulations.
+I take pleasure in creating visually appealing content that effectively conveys ideas. Adobe Photoshop and Illustrator are my go-to tools for making these ideas come to life. I was heavily involved in my high school's multimedia and theatre programs, where I developed numerous projections and posters, as well as photo manipulations.
 
 ![A bright orange poster displaying two women holding a man's body, each with contradicting expressions, with a title stating, "Postponing the Heat Death of the Universe," crediting Stephen Gregg as the writer and Lena Kozak as the director at the top of the poster.](/PHDU%20Poster%20by%20Evan%20James%20Otilla.jpeg)
 
 *This is a poster I designed for the one-act play I stage managed from April to May of 2024.*
+
+### Video Editing
+
+I enjoy creating and editing short-form content such as reels, short films, and animations through the use of Adobe Premiere Pro.
+
+[The Interrogation - Interview Sample](https://www.instagram.com/reel/C5p96B8iY8A/?igsh=MXhzbnEzcXBuemw1dA==)
+
+*This is a video I edited for one of my high school's one-act plays, "The Interrogation." It is part of a series of interviews with the play's cast. If you are interested, you can view the rest of the videos on the Instagram page [here](https://www.instagram.com/find_lydiac/).*
 
 ## Contact Information
 
