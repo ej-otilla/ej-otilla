@@ -36,9 +36,9 @@ I take pleasure in creating visually appealing content that effectively conveys 
 
 ### Video Editing
 
-I enjoy creating and editing short-form content such as reels, short films, and animations through the use of Adobe Premiere Pro.
+I enjoy creating and editing short-form content such as reels, short films, and animations through the use of Adobe Premiere Pro, as it allows me to combine storytelling with visual art and experiment with dynamic editing techniques to effectively engage audiences. I have also attempted to edit long-form content such as gaming videos, but lost interest due to a lack of time.
 
-[The Interrogation - Interview Sample](https://www.instagram.com/reel/C5p96B8iY8A/?igsh=MXhzbnEzcXBuemw1dA==)
+[The Interrogation - Video Editing Sample](https://www.instagram.com/reel/C5p96B8iY8A/?igsh=MXhzbnEzcXBuemw1dA==)
 
 *This is a video I edited for one of my high school's one-act plays, "The Interrogation." It is part of a series of interviews with the play's cast. If you are interested, you can view the rest of the videos on the Instagram page [here](https://www.instagram.com/find_lydiac/).*
 
