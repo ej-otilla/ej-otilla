@@ -1,7 +1,8 @@
 # Hello, world! 👋
 ### My name is Evan James Otilla, but you can call me Evan or EJ.
-*I am in the Interactive Design program, majoring in Web Design and Development at SAIT.*
+I am a first-year student in the Interactive Design program, majoring in Web Design and Development at SAIT.
 ## Here are some of my recent favourite music artists!
+Music has played a significant role in shaping who I am as a person today. I love listening to and producing music, as well as dabbling in and learning new instruments when I have the opportunity!
 1. [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3?si=Of9XohBfQQeOct9wlZ59uQ)
 2. [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu?si=saf-PtPrTVulCy2fnJ0Zww)
 3. [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn?si=FB-ZsHQfRnqsIfWftTgW6w)
