@@ -12,3 +12,9 @@
 8. [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv?si=nRf7i9VJTs-1SEZUpMQ9-A)
 9. [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI?si=WvsIK002SjKeWNtCUZGGiw)
 10. [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1?si=DFsqKtutQJ6S-c5ANLCIgw)
+## Fun Fact!
+I quoted a song lyric from Jeremy Zucker's song "full stop" from his album "love is not dying" in my high school yearbook:
+
+> "Will the solace in art fill the hole in my art?" — Jeremy Zucker
+
+This album means **a lot** to me, *if it wasn't obvious already*.
