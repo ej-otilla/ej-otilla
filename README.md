@@ -3,7 +3,7 @@
 ### My name is Evan James Otilla, but you can call me Evan or EJ.
 I am a first-year student in the Interactive Design program, majoring in Web Design and Development at SAIT. I enjoy creating digital experiences that connect with people by blending great design with functionality. I use he/him pronouns.
 
-## Relevant Skills 🛠️
+## Relevant Skills ✍️
 
 - **Graphic Design**: Proficient in Adobe Photoshop and Illustrator, with experience in creating visual identities and branding materials.
 
@@ -38,7 +38,7 @@ I take pleasure in creating visually appealing content that effectively conveys 
 
 I enjoy creating and editing short-form content such as reels, short films, and animations through the use of Adobe Premiere Pro, as it allows me to combine storytelling with visual art and experiment with dynamic editing techniques to effectively engage audiences. I have also attempted to edit long-form content such as gaming videos, but lost interest due to a lack of time.
 
-[The Interrogation - Video Editing Sample](https://www.instagram.com/reel/C5p96B8iY8A/?igsh=MXhzbnEzcXBuemw1dA==)
+**Click [this](https://www.instagram.com/reel/C5p96B8iY8A/?igsh=MXhzbnEzcXBuemw1dA==) Instagram reel link to see an example of my editing skills.**
 
 *This is a video I edited for one of my high school's one-act plays, "The Interrogation." It is part of a series of interviews with the play's cast. If you are interested, you can view the rest of the videos on the Instagram page [here](https://www.instagram.com/find_lydiac/).*
 
