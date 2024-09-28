@@ -1,7 +1,7 @@
 # Hello, world! 👋
 
 ### My name is Evan James Otilla, but you can call me Evan or EJ.
-I am a first-year student in the Interactive Design program, majoring in Web Design and Development at SAIT. I'm passionate about creating digital experiences that connect with users by combining aesthetics and functionality.
+I am a first-year student in the Interactive Design program, majoring in Web Design and Development at SAIT. I enjoy creating digital experiences that connect with people by blending great design with functionality. I use he/him pronouns.
 
 ## Skills
 
