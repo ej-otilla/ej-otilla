@@ -10,11 +10,11 @@ Music has played a significant role in shaping who I am as a person today. I lov
 
 #### Fun Fact ⚡️
 
-I quoted a song lyric from Jeremy Zucker's song, "full stop," from his album, *love is not dying*, in my high school yearbook:
+I chose a line from Jeremy Zucker's song "full stop," which is from his album *love is not dying*, as my senior quote for my high school yearbook:
 
 > "Will the solace in art fill the hole in my heart?" — Jeremy Zucker
 
-This quote essentially reflects my values and inspires me to use design to express myself and interact with others. I truly believe that meaningful art can bring comfort and have a positive impact, which motivates me to communicate my ideas clearly in my work.
+This quote deeply resonates with me because it essentially captures how art can be a source of comfort when we are experiencing difficult times. I view design as the chance to articulate emotions and, through them, find a place to connect with people. My hope is that through my work, I can offer a sense of warmth, helping to fill those emotional gaps we all experience.
 
 ### Graphic Design 🎨
 
