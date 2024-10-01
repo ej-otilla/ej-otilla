@@ -3,20 +3,10 @@
 ### My name is Evan James Otilla, but you can call me Evan or EJ.
 I am a first-year student in the Interactive Design program, majoring in Web Design and Development at SAIT. I enjoy creating digital experiences that connect with people by blending great design with functionality. I use he/him pronouns.
 
-## Relevant Skills ✍️
-
-- **Graphic Design**: Proficient in Adobe Photoshop and Illustrator, with experience in creating visual identities and branding materials.
-
-- **Video Editing**: Skilled in Adobe Premiere Pro for crafting engaging video content.
-
-- **Version Control**: Experienced in using Git and GitHub for collaborative projects and version control.
-
 ## Creative Outlets 🧩
 
 ### Music 🎧
 Music has played a significant role in shaping who I am as a person today. I love discovering new artists, singing, and experimenting with different instruments including the drums, electric and acoustic guitars, and piano. Listening to music not only inspires my creativity but also influences my design work.
-
-Check out my [favorite playlist](https://open.spotify.com/playlist/2e6JDRecVbYUk4PKmZX2XV?si=aWZINSBATDujUVmjhdfsWw) to hear some of the artists that inspire me!
 
 https://github.com/user-attachments/assets/d8a644dc-5638-4f39-87e2-432885d6dc85
 
