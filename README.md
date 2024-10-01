@@ -18,9 +18,9 @@ Music has played a significant role in shaping who I am as a person today. I lov
 
 Check out my [favorite playlist](https://open.spotify.com/playlist/2e6JDRecVbYUk4PKmZX2XV?si=aWZINSBATDujUVmjhdfsWw) to hear some of the artists that inspire me!
 
-<video controls src="Tame Impala - Eventually (Drum Cover).mp4" title="Title"></video>
+https://github.com/user-attachments/assets/d8a644dc-5638-4f39-87e2-432885d6dc85
 
-*This is a drum cover I did for Tame Impala's song "Eventually." It is a really lengthy song (almost 5 minutes long), so I condensed it to what you needed to see.*
+*This is a drum cover I did for Tame Impala's song "Eventually." It's a fairly long song (around 5 minutes), so I shortened the video to show only what you needed to see.*
 
 #### Fun Fact ⚡️
 
