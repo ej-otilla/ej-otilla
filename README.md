@@ -18,6 +18,10 @@ Music has played a significant role in shaping who I am as a person today. I lov
 
 Check out my [favorite playlist](https://open.spotify.com/playlist/2e6JDRecVbYUk4PKmZX2XV?si=aWZINSBATDujUVmjhdfsWw) to hear some of the artists that inspire me!
 
+<video controls src="Tame Impala - Eventually (Drum Cover).mp4" title="Title"></video>
+
+*This is a drum cover I did for Tame Impala's song "Eventually." It is a really lengthy song (almost 5 minutes long), so I condensed it to what you needed to see.*
+
 #### Fun Fact ⚡️
 
 I quoted a song lyric from Jeremy Zucker's song, "full stop," from his album, *love is not dying*, in my high school yearbook:
