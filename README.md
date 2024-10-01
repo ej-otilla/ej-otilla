@@ -24,6 +24,14 @@ I take pleasure in creating visually appealing content that effectively conveys 
 
 I enjoy creating and editing short-form content such as reels, short films, and animations through the use of Adobe Premiere Pro, as it allows me to combine storytelling with visual art and experiment with dynamic editing techniques to effectively engage audiences. I have also attempted to edit long-form content such as gaming videos, but lost interest due to a lack of time.
 
+## Programs 👨‍💻
+
+I am highly proficient in the following programs:
+
+- Adobe Photoshop, Adobe Lightroom
+- Adobe Illustrator, Canva
+- Adobe Premiere Pro, CapCut, DaVinci Resolve
+
 ## Contact Information ☎️
 
 Feel free to reach out to me if you are interested in collaboration, giving feedback, or just want to connect! I am always open to new opportunities and discussions.
