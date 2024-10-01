@@ -20,7 +20,7 @@ Check out my [favorite playlist](https://open.spotify.com/playlist/2e6JDRecVbYUk
 
 https://github.com/user-attachments/assets/d8a644dc-5638-4f39-87e2-432885d6dc85
 
-*This is a drum cover I did for Tame Impala's song "Eventually." It's a fairly long song (around 5 minutes), so I shortened the video to show only what you needed to see.*
+*This is a drum cover I did for Tame Impala's song "Eventually." It is a rather lengthy song (about 5 minutes), so I reduced the video to show only what was necessary.*
 
 #### Fun Fact ⚡️
 
